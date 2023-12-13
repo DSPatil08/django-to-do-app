@@ -1,3 +1,7 @@
+About
+To Do list app with Statistic of Complete and Incomplete task in todo app, date,time of todo created, 
+Search and full Create Read Update and DELETE functionality. This app is created fron using the Django html and python languages.
+
 # django-to-do-app
 
 ### Cloning the repository
